@@ -1,0 +1,11 @@
+[
+	{
+		"id": "1",
+		"name": "Detect TV/Monitor & Control",
+		"iconpath":"tvdetection/images/",
+		"htmlpath": "tvdetection/",
+		"info":"Tested on XRViewer browser iOS (> iPhone 6s). To control device, need to run TV / mouse control server in local network and configure the IP address."
+	}	
+	
+	
+]
